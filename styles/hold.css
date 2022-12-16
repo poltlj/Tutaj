@@ -1,0 +1,28 @@
+body {background-color: #ffbb00;
+    opacity: 0.9;
+
+    background-size: 8px 8px;}
+
+    .cim {color: #0e43ee;
+        float: none;
+        /*padding: 20px;*/
+        margin-top: 30px;
+        margin-bottom: 25px;
+        margin-left: 0px;
+        text-align: center;}
+
+    .szoveg1 {
+        color: #000000;
+        float: none;
+        padding:20px;
+         margin-left: 100px;
+        text-align: justify;}
+
+    .kep {
+        width: 250px;
+
+    }
+    .kep2 {
+        width: 180px;
+
+    }
